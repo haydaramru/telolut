@@ -1,9 +1,4 @@
-Bismillahirrohmanirrohiim
-Stop PMO
-Mulai konsisten
-
-TODO BESOK:
-- Fix wiring EMO-vest
-- Kerjain PPT EMO-vest
-- Mulai konten portfolio
-- Benerin CV
+<div align="center">
+  <h1> Telolut </h1>
+  <p> Pendeteksi Longsor Bawah Laut Berbasis IoT dan Sonar Menggunakan ESP32 dan ThingSpeak </p>
+</div>
